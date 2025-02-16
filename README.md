@@ -1,4 +1,4 @@
-# Simon Says Game
+# Simon Memory Challenge
 
 ## About
 
